@@ -1,4 +1,4 @@
-.carrocel__titulo{ 
+.carrossel__titulo{ 
     background: var(--branco);
     color: var(--laranja);
     text-align: center;
@@ -71,4 +71,8 @@
     font-weight: 700;
     color: var(--branco);
     text-decoration: none;
+}
+
+.botões__item{
+    margin: 0 0.5em;
 }
